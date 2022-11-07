@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently studying to a System Developer in .NET @ Newton Academy (Malmö, Sweden)
+I’m currently studying to become a System Developer in .NET @ Newton Academy (Malmö, Sweden)
 
 <!--
 **KesoGizmoYoshi/KesoGizmoYoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
